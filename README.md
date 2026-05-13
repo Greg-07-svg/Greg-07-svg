@@ -1,9 +1,37 @@
-- 👋 Hi, I’m gregorio
-- 👀 I’m interested in completing my degree
-- 💞️ I’m wanting to start working on this app
-- 📫 How to reach me: ig = miranda_gregorio_ , In = gregorio-miranda
-- 😄 Pronouns: he / him
-- ⚡ Fun fact: i like learning !!
+# Hey, I'm Gregorio 👋
+
+Computer Science student at **Universidad Católica de Córdoba**, Argentina 🇦🇷  
+Building my foundation, one project at a time.
+
+---
+
+## 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📚 About Me
+
+- 🎓 Studying **Ingeniería Informática** @ UCC
+- 📍 Córdoba, Argentina
+- 🔭 Currently focused on strengthening my fundamentals
+- 🌱 Always learning something new
+
+---
+
+## 📊 GitHub Stats
+
+![Greg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Greg-07-svg&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-07-svg&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+*Open to connecting with other devs and learners. Let's build something cool.* 🚀
 
 <!---
 Greg-07-svg/Greg-07-svg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
