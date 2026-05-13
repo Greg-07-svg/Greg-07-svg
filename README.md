@@ -26,9 +26,7 @@ Building my foundation, one project at a time.
 
 ## 📊 GitHub Stats
 
-[![Greg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Greg-07-svg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Greg-07-svg)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-07-svg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Greg-07-svg)
+[![Greg's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Greg-07-svg&theme=tokyonight)](https://github.com/Greg-07-svg)
 
 ---
 
