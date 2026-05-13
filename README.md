@@ -1,7 +1,7 @@
 # Hey, I'm Gregorio 👋
 
-Computer Science student at **Universidad Católica de Córdoba**, Argentina 🇦🇷  
-Building my foundation, one project at a time.
+Software Engineer student at **Universidad Católica de Córdoba**, Argentina 🇦🇷  
+Building my foundation, one step at a time.
 
 ---
 
