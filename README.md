@@ -30,9 +30,8 @@ Building my foundation, one step at a time.
 
 ## GitHub Stats
 
-[![Greg's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Greg-07-svg&theme=tokyonight)](https://github.com/Greg-07-svg)
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Greg-07-svg&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-07-svg&layout=compact&theme=radical)
+[![Greg's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Greg-07-svg&theme=radical)](https://github.com/Greg-07-svg)
+
 ![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=Greg-07-svg&theme=radical)
 ---
 
